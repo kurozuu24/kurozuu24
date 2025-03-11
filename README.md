@@ -6,7 +6,8 @@
 Back-end: PHP | Laravel
 
 Front-end
-HTML
+![image](https://github.com/user-attachments/assets/54279aa3-8062-47ce-890e-6f3d2b0c8876)
+
 CSS
 JavaScript
 TypeScript
