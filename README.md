@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 ¡Hola! Soy Juan Carlos 
+🚀 Desarrollador Full Stack recién graduado en DAW (Desarrollo de Aplicaciones Web)
+💻 Apasionado por crear aplicaciones web modernas, escalables y con una experiencia de usuario excepcional.
 
-<!--
-**kurozuu24/kurozuu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologías y Herramientas
+Back-end: PHP | Laravel
 
-Here are some ideas to get you started:
+Front-end
+HTML
+CSS
+JavaScript
+TypeScript
+React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Herramientas
+Git
+GitHub
+Terminal
+
+En aprendizaje: Me encanta seguir aprendiendo y explorando nuevas tecnologías.
+
+📫 ¡Conéctate conmigo!
+💼 LinkedIn
+
+📧 Email
+
+⚡ Dato Curioso
+Cuando no estoy programando, me gusta Jugar Videojuegos, programar por mi cuenta, tocar el piano.
+
+✨ ¡Gracias por visitar mi perfil! ✨
+
